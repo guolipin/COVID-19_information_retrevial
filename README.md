@@ -14,10 +14,10 @@ Our information retrieval system, also called search engine, is build based on t
 This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 
 ### Versions
-| Date | Code | Performance |
+| Date | Code | Performance(MRR score) |
 | :--- | :--- | :---|
 ||code|result1|
-|22/03/23|code|result2|
+|22/03/23|version1|15.8%|
 
 ### Reference
 [1] Jurafsky D & Martin JH 2020, Speech and Language Processing, 3rd ed., Stanford University, California, <https://web.stanford.edu/~jurafsky/slp3/>
