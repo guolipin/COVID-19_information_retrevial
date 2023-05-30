@@ -19,6 +19,9 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 |19/04/23|[version2](https://github.com/guolipin/search_engine/blob/main/search_engine_v2.ipynb)|75%🚀|
 |22/03/23|[version1](https://github.com/guolipin/search_engine/blob/main/search_engine_v1.ipynb)|15.8%|
 
+### Requirements
+* To run code successfully, you need to download data from Kaggle (20G) and sample it. I recommend you to use my dataset, which is randomly sample from original dataset.
+* To run code efficiently, you can use saved csv file or json file in the same file, which will save 1-2 hours for you to process the data.
 
 ### Reference
 [1] Jurafsky D & Martin JH 2020, Speech and Language Processing, 3rd ed., Stanford University, California, <https://web.stanford.edu/~jurafsky/slp3/>
