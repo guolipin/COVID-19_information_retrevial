@@ -15,9 +15,19 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 
 ### Versions
 | Date | Code | Performance(MRR score) |
-| :--- | :--- | :---|
+| :---: | :---: | :---: |
 |19/04/23|[version2](https://github.com/guolipin/search_engine/blob/main/search_engine_v2.ipynb)|75%🚀|
 |22/03/23|[version1](https://github.com/guolipin/search_engine/blob/main/search_engine_v1.ipynb)|15.8%|
+
+### Performance
+**Metric**  
+MRR stands for Mean Reciprocal Rank, and it is a measure used to evaluate the effectiveness of a search engine algorithm. IMRR measures the average rank of the first relevant result in a set of search results, where each rank is weighted by its reciprocal value.
+
+**Runtime**  
+Version 1 uses slow article retrieval method, while version 2 uses the fast one.
+<img width="400" alt="image" src="https://github.com/guolipin/search_engine/assets/134791744/44d850b5-05ac-4a9f-bdef-bb5131c212e0">
+
+
 
 ### Requirements
 * To run code successfully, you need to download data from Kaggle (20G) and sample it. I recommend you to use my dataset, which is randomly sample from original dataset.
