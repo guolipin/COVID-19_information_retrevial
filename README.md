@@ -26,7 +26,8 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 MRR stands for Mean Reciprocal Rank, and it is a measure used to evaluate the effectiveness of a search engine algorithm. IMRR measures the average rank of the first relevant result in a set of search results, where each rank is weighted by its reciprocal value.
 
 **Runtime**  
-Version 1 uses slow article retrieval method, while version 2 uses the fast one.
+Version 1 uses slow article retrieval method, while version 2 uses the fast one.  
+
 <img width="350" alt="image" src="https://github.com/guolipin/search_engine/assets/134791744/44d850b5-05ac-4a9f-bdef-bb5131c212e0">
 
 
