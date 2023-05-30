@@ -17,7 +17,7 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 | Date | Code | Performance(MRR score) |
 | :---: | :---: | :---: |
 |19/04/23|[version2](https://github.com/guolipin/search_engine/blob/main/search_engine_v2.ipynb)|75%🚀|
-|22/03/23|[version1](https://github.com/guolipin/search_engine/blob/main/search_engine_v1.ipynb)|15.8%|
+|22/03/23|[version1](https://github.com/guolipin/search_engine/blob/main/search_engine_v1.ipynb)|65%|
 
 - version 2 fixs some bugs in version 1 and also uses a faster retrevial method to find relevant articles.
 
