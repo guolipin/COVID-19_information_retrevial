@@ -1,7 +1,7 @@
 ### Task
 * Answer a user's query about COVID-19.
 * Input: A user's query about COVID-19.
-* Return: Top k relevant COVID-19 scholarly articles snippets.
+* Return: Top k relevant COVID-19 scholarly articles.
 
 ### Data
 Our data is a subset of [COVID-19 Open Research Dataset (CORD-19)](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge), including 10,000 academic articles.
