@@ -16,8 +16,9 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 ### Versions
 | Date | Code | Performance(MRR score) |
 | :--- | :--- | :---|
-||code|result1|
-|22/03/23|version1|15.8%|
+|19/04/23|[version2](https://github.com/guolipin/search_engine/blob/main/search_engine_v2.ipynb)|75%🚀|
+|22/03/23|[version1](https://github.com/guolipin/search_engine/blob/main/search_engine_v1.ipynb)|15.8%|
+
 
 ### Reference
 [1] Jurafsky D & Martin JH 2020, Speech and Language Processing, 3rd ed., Stanford University, California, <https://web.stanford.edu/~jurafsky/slp3/>
