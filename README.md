@@ -21,7 +21,7 @@ This image is from Jurafsky & Martin 2020, ch.14, p.2 [1].
 
 ### Requirements
 * To run code successfully, you need to download data from Kaggle (20G) and sample it. I recommend you to use my dataset, which is randomly sample from original dataset.
-* To run code efficiently, you can use saved csv file or json file in the same file, which will save 1-2 hours for you to process the data.
+* To run code efficiently, you can use saved csv file or json file in the same directory, which will save 1-2 hours for data processing.
 
 ### Reference
 [1] Jurafsky D & Martin JH 2020, Speech and Language Processing, 3rd ed., Stanford University, California, <https://web.stanford.edu/~jurafsky/slp3/>
